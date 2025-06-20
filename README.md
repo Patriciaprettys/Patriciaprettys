@@ -1,15 +1,66 @@
+# 👋 Hi there, I'm Patricia Nelson, PMP
 
-# 👋 Hi there, I'm Patricia
-Quality-focused Technical Recruiter & Project Manager with a passion for process improvement, data-driven hiring strategies, and cross-functional team leadership. Experienced in managing full-cycle recruitment initiatives at scale and improving sourcing pipelines through innovative platforms and agile methodologies.
+💡 Data analyst in the making | 🎯 Project-driven professional | 🤖 MS in AI & Business Analytics Candidate (08/2025)
 
-## 🛠️ Skills & Tools
-- Project Management (Agile, Waterfall)
-- Process Optimization & ROI Analysis
-- Talent Acquisition Strategy
-- Data Analytics (Excel, SQL)
-- Stakeholder Communication
-- Budget Oversight
-- CRM & ATS Tools (LinkedIn Recruiter, Dice, Monster)
+With a backgroundproject coordination, and data analysis, I bring a unique perspective to the intersection of people, process, and AI. I thrive on turning data into impactful stories, aligning project goals with analytics, and using visual tools to drive better decisions.
+
+---
+
+## 🎓 Education
+
+**University of South Florida**  
+*MS, Artificial Intelligence & Business Analytics* — *Expected Aug 2025*
+
+**University of South Florida**  
+*BS, Communications* — *Dec 2020*
+
+---
+
+## 💼 Professional Experience Highlights
+
+**Technical Recruiter / Project Manager — Amazon Web Services (2022–2023)**  
+- Drove full-cycle tech hiring initiatives for AWS; led a $2.2M early-career talent pipeline project (75%+ success rate).
+- Innovated TikTok + LinkedIn outreach strategy yielding 150% ROI.
+- Presented stakeholder-ready reports using Excel-based analytics.
+
+**Lead Technical Recruiter — Hays US Corporation (2021–2022)**  
+- Managed 20+ tech hiring projects and IT requisitions simultaneously using Agile practices.
+- Boosted hiring goals by 50% via project-based recruiting strategy and data tracking.
+
+**Project Coordinator — Centene Corporation (2018–2019)**  
+- Recouped over $2M by detecting inaccuracies in claims and eligibility data.
+- Maintained all project timelines and documentation across multiple cross-functional teams.
+
+---
+
+## 📌 Core Skills
+
+**Project Management:** Agile | Scrum | Risk Analysis | Forecasting  
+**Analytics Stack:** SQL | Python | R | Power BI | Tableau | Excel | Snowflake  
+**Web & Tools:** Django | Flask | VS Code | JIRA | Workday | ATS | Asana  
+**Specialties:** Data Cleaning | KPI Modeling | Process Optimization | Dashboarding
+
+---
+
+## 📃 Certifications
+
+- PMP — Project Management Institute  
+- SAFe Scrum Master — Scaled Agile Inc.  
+- AWS Certified Cloud Practitioner
+
+---
+
+## 💬 Let’s Connect
+
+📫 **Email:** PatriciaNehNelson@gmail.com  
+📍 **Location:** Dallas, TX  
+🔗 **LinkedIn:** [linkedin.com/in/patriciannelson](https://www.linkedin.com/in/patriciannelson)
+
+---
+
+> “Data without context is just noise. I aim to transform that noise into actionable insight.”
+
+
 
 ## 👩‍💻 Selected Projects
 
@@ -27,8 +78,6 @@ Quality-focused Technical Recruiter & Project Manager with a passion for process
 - Identified discrepancies in claim payments and eligibility data, recovering over $2M in overpayments.
 - Supported cross-functional collaboration with documentation, reporting, and quality assurance.
 
-## 🔍 SDLC Exposure
-While not an engineering role, I’ve worked alongside developers and project managers to recruit for SDLC-critical functions — contributing to process optimization, resource allocation, timeline tracking, and agile sprint alignment in hiring initiatives.
 
 
 
