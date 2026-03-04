@@ -9,7 +9,7 @@ With a backgroundproject coordination, and data analysis, I bring a unique persp
 ## 🎓 Education
 
 **University of South Florida**  
-*MS, Artificial Intelligence & Business Analytics* — *Expected Aug 2025*
+*MS, Artificial Intelligence & Business Analytics* — Aug 2025*
 
 **University of South Florida**  
 *BS, Communications* — *Dec 2020*
