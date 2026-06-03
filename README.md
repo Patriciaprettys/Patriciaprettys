@@ -18,18 +18,49 @@ With a backgroundproject coordination, and data analysis, I bring a unique persp
 
 ## 💼 Professional Experience Highlights
 
-**Technical Recruiter / Project Manager — Amazon Web Services (2022–2023)**  
-- Drove full-cycle tech hiring initiatives for AWS; led a $2.2M early-career talent pipeline project (75%+ success rate).
-- Innovated TikTok + LinkedIn outreach strategy yielding 150% ROI.
-- Presented stakeholder-ready reports using Excel-based analytics.
+**Project Manager — Technical Recruiter**                                                                             02/2022 - 06/2023 
 
-**Lead Technical Recruiter — Hays US Corporation (2021–2022)**  
-- Managed 20+ tech hiring projects and IT requisitions simultaneously using Agile practices.
-- Boosted hiring goals by 50% via project-based recruiting strategy and data tracking.
+**Amazon Web Services (AWS) — Remote, US**
 
-**Project Coordinator — Centene Corporation (2018–2019)**  
-- Recouped over $2M by detecting inaccuracies in claims and eligibility data.
-- Maintained all project timelines and documentation across multiple cross-functional teams.
+Directed enterprise-wide recruitment projects, integrating Agile frameworks and automation across AWS platform recruitment teams to deliver top-tier technical talent for business-critical roles. 
+
+Spearheaded an early-career hiring program under a $2.2M budget, achieving 100% hiring completion in three months. 
+
+Implemented cloud-based sourcing automation, increasing efficiency by 150% and reducing cycle time by 30% through TikTok and LinkedIn channels. 
+
+Created KPI dashboards in Excel and Amazon QuickSight to support executive reporting and strategic workforce planning. 
+
+Defined project scope, goals, and deliverables in collaboration with stakeholders to ensure alignment with organizational strategy. 
+
+Led project planning sessions and coordinated cross-functional teams to ensure timely execution and adherence to specifications. 
+
+**Project Manager — Lead Technical Recruiter**                                                                     07/2021 - 02/2022 
+
+**Hays US Corporation — Tampa, FL**
+
+Oversaw delivery of 20+ IT hiring and onboarding projects across enterprise clients. 
+
+Improved KPIs to 50% above hiring goals by applying Agile methodologies, pipeline management, resource allocation, and project tracking. 
+
+Built real-time dashboards in Excel and SharePoint to monitor resource planning, hiring progress, and pipeline risks. 
+
+Managed budgets, timelines, risks, and team leadership responsibilities to support project governance and strategy. 
+
+Developed project schedules using Gantt charts and project management software and led cross-functional teams to deliver milestones on time and within budget. 
+
+**Provider Project Coordinator**                                                                                      09/2017 - 06/2019 
+
+**Centene Corporation: Sunshine State — Tampa, FL**
+
+Led analytics and data quality initiatives using SQL, ETL workflows, and dashboards to reduce defects and improve accuracy. 
+
+Recovered more than $2M in erroneous claims through targeted data investigation and remediation. 
+
+Coordinated with business, IT, and compliance teams to define requirements, mitigate risks, and deliver executive insights. 
+
+Managed documentation for regulatory compliance and project tracking systems. 
+
+Organized stakeholder meetings and facilitated cross-functional communication to streamline project processes. 
 
 ---
 
